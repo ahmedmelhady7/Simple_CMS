@@ -26,3 +26,5 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+[ ![Codeship Status for elhadiahmed/Simple_CMS](https://www.codeship.io/projects/9e3e4aa0-d854-0131-f4de-6a39991381d1/status)](https://www.codeship.io/projects/24010)
